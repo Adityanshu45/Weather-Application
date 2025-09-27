@@ -8,7 +8,7 @@
    - Wind Speed 🌬️  
 4. Handles errors gracefully if the city is not found.  
 
----\
+---
 
 ## 🖥️ Deployment
 The app is deployed on **GitHub Pages / Netlify**.  
@@ -45,4 +45,5 @@ The app is deployed on **GitHub Pages / Netlify**.
 BN College Of Engineering And Technology – CSE (AI & ML)  
 
 ---
+
 
