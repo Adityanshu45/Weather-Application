@@ -13,7 +13,7 @@
 ## 🖥️ Deployment
 The app is deployed on **GitHub Pages / Netlify**.  
 
-🔗 **Live Demo**:(https://github.com/Adityanshu45/Weather-Application)
+🔗 **Live Demo**: (https://weatherworldsearch.netlify.app/)
 🔗 **GitHub Repository**: (https://github.com/Adityanshu45/Weather-Application) 
 
 ---
@@ -45,6 +45,7 @@ The app is deployed on **GitHub Pages / Netlify**.
 BN College Of Engineering And Technology – CSE (AI & ML)  
 
 ---
+
 
 
 
