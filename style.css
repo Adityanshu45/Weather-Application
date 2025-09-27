@@ -81,3 +81,12 @@ justify-content: space-between;
     font-size: 28px;
     margin-top: -6px;
 }
+
+@media (max-width : 460px){
+    .search input{
+        width: 230px;
+    }
+    .card{
+        padding : 15px 5px 15px 5px;
+    }
+}
